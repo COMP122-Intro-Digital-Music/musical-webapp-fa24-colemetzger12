@@ -1,1 +1,8 @@
-data:text/plain;charset=utf-8,%5B%0A%20%20%7B%0A%20%20%20%20%22name%22%3A%20%22Sample%201%22%2C%0A%20%20%20%20%22file%22%3A%20%22samples%2FCOMP-122-DAW-Production-FA-2024-2%22%2C%0A%20%20%20%20%22bpm%22%3A%20%22120%22%2C%0A%20%20%20%20%22loop%22%3A%20%221m%22%0A%20%20%7D%0A%5D
+[
+  {
+    "name": "Sample 1",
+    "file": "samples/COMP-122-DAW-Production-FA-2024-2",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
