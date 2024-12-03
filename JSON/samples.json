@@ -1,7 +1,19 @@
 [
   {
-    "name": "Sample 1",
-    "file": "samples/COMP-122-DAW-Production-FA-2024-2",
+    "name": "Number 1",
+    "file": "samples/ /Users/colemetzger/Downloads/Loyola University Chicago.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Number 2",
+    "file": "samples//Users/colemetzger/Music/Music/Media.localized/Music/Unknown Artist/Unknown Album/Loyola University Chicago.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "",
+    "file": "samples/",
     "bpm": "120",
     "loop": "1m"
   }
