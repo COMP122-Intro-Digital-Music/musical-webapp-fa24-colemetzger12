@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "kic",
+    "pitch": "A3",
+    "pattern": "020202"
+  },
+  {
+    "name": "sho",
+    "pitch": "D#4",
+    "pattern": "1000212"
+  },
+  {
+    "name": "cla",
+    "pitch": "C4",
+    "pattern": "1000293"
+  }
+]
